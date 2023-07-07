@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    height: 100px;
+    background-color: cadetblue;
+    color: black;
+    text-align: center;
+    
+
+}
+.main_section{
+     height: 80px;
+     text-align: center;
+     background-color: aquamarine;
+     color: #000;
+}
+
+.about_section{display: flex;
+
+}
+
+.left{height: 350px;
+    width: 50%;
+    background-color: aqua;
+    color: #000;
+    text-align: center;
+
+}
+
+.right{height: 350px;
+    width: 50%;
+    background-color: rgb(7, 160, 160);
+    color: #000;
+    text-align: center;
+
+}
+
+footer{
+height: 120px;
+background-color: darkslategrey;
+color: black;
+text-align: center;
+}
